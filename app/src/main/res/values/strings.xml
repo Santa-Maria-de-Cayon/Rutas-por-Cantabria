@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rutas Cantabria</string>
+    <string name="title_activity_maps">Rutas Cantabria</string>
+    <string name="app_name_des">Rutas Cantabria</string>
+    <string name="go">Como llegar</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://diseno-web-cantabria.web.app/.well-known/assetlinks.json\" }]</string>
+    <string name="coment">Comentarios</string>
+    <string name="share">Compartir</string>
+    <string name="web">Web</string>
+</resources>
